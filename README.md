@@ -1,3 +1,3 @@
 # inventory-system-tview-golang
 a simple inventory system using golang and json for storage and tview package as interface
-![image](https://github.com/user-attachments/assets/ac89e0c2-3b97-4f8e-819e-a7d07b6d51c1)
+![](https://media0.giphy.com/media/PhTSmzCqkliqIJ9ZtZ/giphy.gif?cid=6c09b9529xsv27yk886fnkevqey9hc0v88jwa79haob2s97z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)
